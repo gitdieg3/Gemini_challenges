@@ -1,2 +1,2 @@
-# kasir_sederhana_py
+# gemini
 mengunkn py sederhana semesetr 1
